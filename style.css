@@ -1,0 +1,110 @@
+header {
+  text-align: center;
+  color: #ffffff;
+  font-size: 13px;
+  background-color: #004E8E;
+  padding: 15px 0px 15px 0px;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+
+}
+
+.line {
+  width:100%;
+  height:1px;
+  background: #378CCD;
+  position: relative;
+  margin-bottom: 10px;
+  }
+
+body {
+  background-color: #005AA3;
+  margin: 0 auto;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.container {
+  background-color: #ffffff;
+  max-width: 900px;
+  width: 80%;
+  /*height: 200px;*/
+  padding: 15px;
+  margin: 0 auto;
+  display: block;
+}
+
+.logo {
+  /*display: inline-block;*/
+  float: left;
+  padding-right: 75px;
+}
+
+.nav_links {
+  color: #0063AB;
+  font-size: 18px;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  padding-right: 25px;
+  line-height: 75px;
+  float: left;
+}
+
+a {
+    text-decoration: none;
+    color: #0063AB;
+}
+
+a:active {
+  color: #13A2D8;
+}
+
+.carousel {
+  padding: 100px 0px 0px 0px;
+
+}
+
+.cta > div{
+  /*display: inline-block;*/
+  float: left;
+  width: 31%;
+  padding: 10px;
+
+  /*width: calc(33.33% - 10px);*/
+  /*margin-right: 10px;*/
+}
+
+.group {
+
+}
+
+.about {
+
+}
+.reviews {
+
+}
+
+#reviews_header {
+  text-align: center;
+  font-weight: bold;
+}
+
+#more_reviews {
+  text-align: center;
+}
+.video {
+  display: block;
+  text-align: center;
+}
+
+footer {
+  text-align: center;
+  color: #ffffff;
+  font-size: 10px;
+  width: 900px;
+  margin: 0 auto;
+}
+
+.footer_content {
+  display: inline-block;
+  width: 33%;
+  float: left;
+}
